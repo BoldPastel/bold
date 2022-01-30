@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blogs on codex</title>
-    <link>https://example.org/blog/</link>
-    <description>Recent content in Blogs on codex</description>
+    <title>Blogs on Bold Pastel</title>
+    <link>/blog/</link>
+    <description>Recent content in Blogs on Bold Pastel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© {year}</copyright>
-    <lastBuildDate>Sat, 01 Jan 2022 00:00:00 -1200</lastBuildDate><atom:link href="https://example.org/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 01 Jan 2022 00:00:00 -1200</lastBuildDate><atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Welcome To Bold Pastel</title>
-      <link>https://example.org/blog/about-us/</link>
+      <link>/blog/about-us/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 -1200</pubDate>
       
-      <guid>https://example.org/blog/about-us/</guid>
+      <guid>/blog/about-us/</guid>
       <description>What is Bold Pastel we make web software.</description>
     </item>
     
