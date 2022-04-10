@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bold Pastel</title>
-    <link>/</link>
+    <link>/apps/</link>
     <description>Recent content on Bold Pastel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© {year}</copyright>
-    <lastBuildDate>Sat, 29 Jan 2022 00:00:00 -1200</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 29 Jan 2022 00:00:00 -1200</lastBuildDate><atom:link href="/apps/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>pmgo</title>
       <link>/apps/perm-manager/</link>
@@ -17,18 +17,6 @@
       <description>What is PMGO - Permissionset Manager in Go for Salesforce.com This is a simple cli based tool that generates permissionset xml from a spreadsheet.
 The advantage of this approach is that the permissions are mastered and tracked on a spreadsheet, generating permissionsets are not a costly exercise.
 Since generation of multiple permissionsets at one go is simple, this allows the consultant to implement strategies that allow for overlapping common permissions and permissionset groups.</description>
-    </item>
-    
-    <item>
-      <title>Welcome To Bold Pastel</title>
-      <link>/about-us/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 -1200</pubDate>
-      
-      <guid>/about-us/</guid>
-      <description>What is Bold Pastel We make applications for popular tools. We do it because we enjoy making good software that make an impact. We are unpretentious. By seeking and blundering we learn.
-And so when we make creative software, it will not be for want of boldness but because of it.
-Attempting to make epic software, one bit at a time, standing on the shoulder of giants.
-What do we do?</description>
     </item>
     
   </channel>
