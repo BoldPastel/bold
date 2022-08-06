@@ -7,28 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© {year}</copyright>
-    <lastBuildDate>Sat, 29 Jan 2022 00:00:00 -1200</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>pmgo</title>
-      <link>/apps/perm-manager/</link>
-      <pubDate>Sat, 29 Jan 2022 00:00:00 -1200</pubDate>
-      
-      <guid>/apps/perm-manager/</guid>
-      <description>What is PMGO - Permissionset Manager in Go for Salesforce.com This is a simple cli based tool that generates permissionset xml from a spreadsheet.
-The advantage of this approach is that the permissions are mastered and tracked on a spreadsheet, generating permissionsets are not a costly exercise.
-Since generation of multiple permissionsets at one go is simple, this allows the consultant to implement strategies that allow for overlapping common permissions and permissionset groups.</description>
-    </item>
-    
+    <lastBuildDate>Sat, 01 Jan 2022 00:00:00 -1200</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Welcome To Bold Pastel</title>
       <link>/about-us/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 -1200</pubDate>
       
       <guid>/about-us/</guid>
-      <description>What is Bold Pastel We make applications for popular tools. We do it because we enjoy making good software that make an impact. We are unpretentious. By seeking and blundering we learn.
-And so when we make creative software, it will not be for want of boldness but because of it.
-Attempting to make epic software, one bit at a time, standing on the shoulder of giants.
-What do we do?</description>
+      <description>What is Bold Pastel Bold Pastel provides software tools to support your service business from Marketing to Sales to Scheduling to Order Management to Customer Retention and Customer Support.
+As first generation immigrants to New Zealand, we strongly believe
+What do we do? We are building micro applications on the web to solve practical problems for creators and professionals. We believe the web is a great equalizer and a community. We strive to learn and share as we go on our journey.</description>
     </item>
     
   </channel>

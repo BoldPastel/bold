@@ -6,18 +6,6 @@
     <description>Recent content on Bold Pastel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>© {year}</copyright>
-    <lastBuildDate>Sat, 29 Jan 2022 00:00:00 -1200</lastBuildDate><atom:link href="/apps/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>pmgo</title>
-      <link>/apps/perm-manager/</link>
-      <pubDate>Sat, 29 Jan 2022 00:00:00 -1200</pubDate>
-      
-      <guid>/apps/perm-manager/</guid>
-      <description>What is PMGO - Permissionset Manager in Go for Salesforce.com This is a simple cli based tool that generates permissionset xml from a spreadsheet.
-The advantage of this approach is that the permissions are mastered and tracked on a spreadsheet, generating permissionsets are not a costly exercise.
-Since generation of multiple permissionsets at one go is simple, this allows the consultant to implement strategies that allow for overlapping common permissions and permissionset groups.</description>
-    </item>
-    
+    <copyright>© {year}</copyright><atom:link href="/apps/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

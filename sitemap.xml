@@ -3,25 +3,18 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>/</loc>
-    <lastmod>2022-01-29T00:00:00-12:00</lastmod>
-  </url><url>
-    <loc>/apps/</loc>
-    <lastmod>2022-01-29T00:00:00-12:00</lastmod>
-  </url><url>
-    <loc>/apps/perm-manager/</loc>
-    <lastmod>2022-01-29T00:00:00-12:00</lastmod>
-  </url><url>
-    <loc>/tags/salesforce-tools/</loc>
-    <lastmod>2022-01-29T00:00:00-12:00</lastmod>
-  </url><url>
-    <loc>/tags/</loc>
-    <lastmod>2022-01-29T00:00:00-12:00</lastmod>
+    <lastmod>2022-01-01T00:00:00-12:00</lastmod>
   </url><url>
     <loc>/tags/bold-pastel/</loc>
     <lastmod>2022-01-01T00:00:00-12:00</lastmod>
   </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2022-01-01T00:00:00-12:00</lastmod>
+  </url><url>
     <loc>/about-us/</loc>
     <lastmod>2022-01-01T00:00:00-12:00</lastmod>
+  </url><url>
+    <loc>/apps/</loc>
   </url><url>
     <loc>/categories/</loc>
   </url>
